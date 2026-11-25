@@ -1,8 +1,8 @@
-# Hi, I am [Your Full Name]!
+# Hi, I am Yuvraj Maan!
 ## About Me
-- B.Tech CSE Student at K.R. Mangalam University, Gurugram (Batch 2024–28)
+- B.Tech CSE Student at K.R. Mangalam University, Gurugram (Batch 2026-2030)
 - Currently learning: Linux shell scripting, Git/GitHub workflows, and Python
-- Interested in: [Cybersecurity / AI-ML / Full-Stack Development / Data Science]
+- Interested in: AI-ML 
 ## Technical Skills
 | Category | Technologies |
 |------------|-----------------------------------------------------|
@@ -10,10 +10,10 @@
 | Tools | Git, GitHub, VS Code, Linux Terminal, Postman |
 | Concepts | File Systems, Process Management, REST APIs, Markdown |
 ## Featured Projects
-- [CSE103 Lab — LAB 3](https://github.com/[username]/cse103-lab-LAB3)
+- [CSE103 Lab — LAB 3](https://github.com/yuvraj-maan/cse103-lab-LAB3)
 Git workflows, API interaction, and Markdown documentation
 ## Currently Working On
 - Semester 1 lab projects and building daily problem-solving habits
 ## Connect With Me
-- LinkedIn : [Your LinkedIn Profile URL]
-- Email : [Your college email address]
+- LinkedIn : www.linkedin.com/in/yuvraj-maan-2b47162a4
+- Email : 2601730428@krmu.edu.in
